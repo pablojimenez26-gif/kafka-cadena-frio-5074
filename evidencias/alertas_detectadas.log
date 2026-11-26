@@ -1,0 +1,3 @@
+timestamp_iso=2026-11-26T19:18:48Z | vehiculo=CAM-01 | temp_c=-14.3 | lat=37.3903 | lon=-5.9841 | particion=2 | offset=15
+timestamp_iso=2026-11-26T19:19:08Z | vehiculo=CAM-01 | temp_c=-14.7 | lat=37.3964 | lon=-5.9813 | particion=2 | offset=25
+timestamp_iso=2026-11-26T19:19:16Z | vehiculo=CAM-01 | temp_c=-15.1 | lat=37.3958 | lon=-5.9813 | particion=2 | offset=29
